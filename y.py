@@ -1,12 +1,11 @@
-# REVERSE SUCCESSFULLY DONE
-# REVERSE BY MR. EX
-# TEAM DARK FORCE - 71
+REVERSE SUCCESSFULLY DONEREVERSE BY MR. EX
+ TEAM DARK FOhcvjcjcxhfxRCE - 71
 #__________________| IMPORT |__________________#
 from os import path
 import requests,random,uuid,string,hashlib,json
 from os import path
 import os,uuid,base64,requests,zlib,httpx,time,platform,datetime
-from time import localtime as lt
+m time import localtime as lt
 from urllib.request import urlopen
 import os,base64,zlib,pip,urllib,urllib3
 import platform,math,smtplib
@@ -26,7 +25,7 @@ print('\x1b[38;5;244m[\x1b[38;5;46m●\x1b[38;5;244m]\x1b[38;5;46m CHECKING UPDA
 time.sleep(3)
 os.system('clear')
 print('\x1b[38;5;244m[\x1b[38;5;46m●\x1b[38;5;244m]\x1b[38;5;46m LODING ●\x1b[38;5;47m●\x1b[38;5;48m●\x1b[38;5;49m●\x1b[38;5;50m●\x1b[38;5;244m [\x1b[38;5;46mHOP TOOL\x1b[38;5;244m]\x1b[1;97m')
-time.sleep(2)
+sleep(2)
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
@@ -85,8 +84,7 @@ try:
         else:
                 fbcr = 'Zong'
                 sim_id+=fbcr
-except:
-        fbcr = "Zong"
+e = "Zong"
 device = {
         'android_version':android_version,
         'model':model,
@@ -119,9 +117,7 @@ def HOP_M2():
 def HOP_M3():
         ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";'[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/Robi;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.katana;FBDV/ASUS_AI2205_D;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]"
         return ua
-#-----------------------[ UA-CODE ]-----------------------#
-#old ua def[👇]
-def windows():
+#-----------------------[ UA-CODE ]-------------------
     aV=str(random.choice(range(10,20)))
     A=f"Mozilla/5.0 (Windows; U; Windows NT {str(random.choice(range(5,7)))}.1; en-US) AppleWebKit/534.{aV} (KHTML, like Gecko) Chrome/{str(random.choice(range(8,12)))}.0.{str(random.choice(range(552,661)))}.0 Safari/534.{aV}"
     bV=str(random.choice(range(1,36)))
